@@ -15,7 +15,7 @@ make preview
 Build the image for the application.
 
 ```
-docker build -t middy:latest .
+make image
 ```
 
 ### Deploy
